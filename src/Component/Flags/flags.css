@@ -1,0 +1,21 @@
+.effect {
+  break-inside: avoid;
+  background: transparent !important;
+  color: rgb(0, 0, 0) !important;
+  box-shadow: none !important;
+  text-shadow: none !important;
+}
+.box {
+  height: 80px;
+  box-shadow: rgba(0, 0, 0, 0.48) 4px 4px 10px 4px;
+  max-width: 100%;
+  border: none;
+  border-radius: 0px;
+  vertical-align: middle;
+  display: inline-block;
+  box-sizing: border-box;
+  transition-duration: 0.3s;
+  transition-property: transform;
+  border-style: none;
+  
+}
