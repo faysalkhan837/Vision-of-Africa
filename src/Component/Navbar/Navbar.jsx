@@ -4,7 +4,7 @@ import './nav.css';
 const Navbar = () => {
   const navItems = <>
           <NavLink to='/'><li><h3 className="text-white text-lg font-bold">HOME</h3></li></NavLink>
-          <NavLink><li><h3 className="text-white text-lg font-bold">WHO WE ARE</h3></li></NavLink>
+          <NavLink to='/weare'><li><h3 className="text-white text-lg font-bold">WHO WE ARE</h3></li></NavLink>
           <NavLink><li><h3 className="text-white text-lg font-bold">GOVERNANCE</h3></li></NavLink>
           <NavLink><li><h3 className="text-white text-lg font-bold">IMPACT</h3></li></NavLink>
           <NavLink><li><h3 className="text-white text-lg font-bold">NEWS</h3></li></NavLink>
