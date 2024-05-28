@@ -2,3 +2,13 @@
 .boxshado{
   box-shadow: rgba(0, 0, 0, 0.48) 4px 4px 10px 4px;;
 }
+.box img {
+  cursor: pointer;
+  transition: all .5s ease;
+  box-shadow: rgba(0, 0, 0, 0.85) 4px 4px 10px 4px;
+}
+
+.box img:hover {
+  border-radius: 10px;
+  transform: scale(1.5);
+}

@@ -7,7 +7,7 @@ const Footer = () => {
             <div className="bg-[#016C36] text-white md:flex space-y-10 justify-around py-10 px-4">
             <div className="px-5">
             <Link to='/'>
-                <img className="max-w-40" src="https://vs-africa.org/wp-content/uploads/2024/03/VISION-FOR-SUSTAINABLE-AFRICA-1.png" />
+                <img className="max-w-52" src="https://vs-africa.org/wp-content/uploads/2024/03/VISION-FOR-SUSTAINABLE-AFRICA-1.png" />
             </Link>
             </div>
             <div className="px-5">
